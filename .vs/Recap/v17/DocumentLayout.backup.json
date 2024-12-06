@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\Recap\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0BABA2C6-FD07-41DE-A85C-6E92D2A2F56A}|Recap\\Recap.csproj|c:\\users\\user\\desktop\\recap\\recap\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BABA2C6-FD07-41DE-A85C-6E92D2A2F56A}|Recap\\Recap.csproj|solutionrelative:recap\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BABA2C6-FD07-41DE-A85C-6E92D2A2F56A}|Recap\\Recap.csproj|c:\\users\\user\\desktop\\recap\\recap\\models\\notinvalidexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BABA2C6-FD07-41DE-A85C-6E92D2A2F56A}|Recap\\Recap.csproj|solutionrelative:recap\\models\\notinvalidexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BABA2C6-FD07-41DE-A85C-6E92D2A2F56A}|Recap\\Recap.csproj|c:\\users\\user\\desktop\\recap\\recap\\models\\shootingmode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BABA2C6-FD07-41DE-A85C-6E92D2A2F56A}|Recap\\Recap.csproj|solutionrelative:recap\\models\\shootingmode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BABA2C6-FD07-41DE-A85C-6E92D2A2F56A}|Recap\\Recap.csproj|c:\\users\\user\\desktop\\recap\\recap\\models\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BABA2C6-FD07-41DE-A85C-6E92D2A2F56A}|Recap\\Recap.csproj|solutionrelative:recap\\models\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\Recap\\Recap\\Program.cs",
+              "RelativeDocumentMoniker": "Recap\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Recap\\Recap\\Program.cs",
+              "RelativeToolTip": "Recap\\Program.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAgwKYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T19:49:07.298Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Weapon.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\Recap\\Recap\\Models\\Weapon.cs",
+              "RelativeDocumentMoniker": "Recap\\Models\\Weapon.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Recap\\Recap\\Models\\Weapon.cs",
+              "RelativeToolTip": "Recap\\Models\\Weapon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKUAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T19:49:38.669Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ShootingMode.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\Recap\\Recap\\Models\\ShootingMode.cs",
+              "RelativeDocumentMoniker": "Recap\\Models\\ShootingMode.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Recap\\Recap\\Models\\ShootingMode.cs",
+              "RelativeToolTip": "Recap\\Models\\ShootingMode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T19:50:35.192Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NotInvalidException.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\Recap\\Recap\\Models\\NotInvalidException.cs",
+              "RelativeDocumentMoniker": "Recap\\Models\\NotInvalidException.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Recap\\Recap\\Models\\NotInvalidException.cs",
+              "RelativeToolTip": "Recap\\Models\\NotInvalidException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T20:07:40.813Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

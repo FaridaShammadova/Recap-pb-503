@@ -1,0 +1,14 @@
+C:\Users\USER\Desktop\Recap\Recap\bin\Debug\net6.0\Recap.exe
+C:\Users\USER\Desktop\Recap\Recap\bin\Debug\net6.0\Recap.deps.json
+C:\Users\USER\Desktop\Recap\Recap\bin\Debug\net6.0\Recap.runtimeconfig.json
+C:\Users\USER\Desktop\Recap\Recap\bin\Debug\net6.0\Recap.dll
+C:\Users\USER\Desktop\Recap\Recap\bin\Debug\net6.0\Recap.pdb
+C:\Users\USER\Desktop\Recap\Recap\obj\Debug\net6.0\Recap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\Recap\Recap\obj\Debug\net6.0\Recap.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Recap\Recap\obj\Debug\net6.0\Recap.AssemblyInfo.cs
+C:\Users\USER\Desktop\Recap\Recap\obj\Debug\net6.0\Recap.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Recap\Recap\obj\Debug\net6.0\Recap.dll
+C:\Users\USER\Desktop\Recap\Recap\obj\Debug\net6.0\refint\Recap.dll
+C:\Users\USER\Desktop\Recap\Recap\obj\Debug\net6.0\Recap.pdb
+C:\Users\USER\Desktop\Recap\Recap\obj\Debug\net6.0\Recap.genruntimeconfig.cache
+C:\Users\USER\Desktop\Recap\Recap\obj\Debug\net6.0\ref\Recap.dll
